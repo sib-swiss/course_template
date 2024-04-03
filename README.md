@@ -1,6 +1,6 @@
 # Course template
 
-This is a template for SIB-training course repository when there is no website attached that you can use to [create a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+This is a template for SIB-training course repository when there is no website attached that you can use to [create a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
 > If you want to have a repository with a website attached go to the [course_website_template](https://github.com/sib-swiss/course_website_template) instead.
 
